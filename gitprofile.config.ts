@@ -100,11 +100,11 @@ const CONFIG = {
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
-      to: 'Present',
-      companyLink: 'https://example.com',
+      company: 'CSUMB Alter Lab',
+      position: 'Lead Lab technician',
+      from: 'May 2024',
+      to: 'August 2025',
+      companyLink: 'http://www.fishfiles.org/',
     },
     {
       company: 'Company Name',
