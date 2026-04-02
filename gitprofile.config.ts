@@ -33,11 +33,11 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Project Name',
+          title: 'Master’s Thesis',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'My thesis project on aquatic garter snake evolutionary ecology. This project is focused on integrating ecological niche modeling and morphometric analyses to determine patterns in landscape-scale shifts in species ranges, historic refugia, and signals of ecological adaptation left on functional morphology.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+            'https://www.biologicaldiversity.org/species/reptiles/giant_garter_snake/index.html',
           link: 'https://example.com',
         },
         {
