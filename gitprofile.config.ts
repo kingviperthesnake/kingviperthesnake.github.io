@@ -29,15 +29,15 @@ const CONFIG = {
       },
     },
     external: {
-      header: 'My Projects',
+      header: 'Ongoing Work',
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Master’s Thesis',
+          title: 'Aquatic Gartersnake Climatic Refugia and Functional Morphology',
           description:
-            'My thesis project on aquatic garter snake evolutionary ecology. This project is focused on integrating ecological niche modeling and morphometric analyses to determine patterns in landscape-scale shifts in species ranges, historic refugia, and signals of ecological adaptation left on functional morphology.',
+            'M.S. Thesis. Integrating ecological niche modeling and morphometric analyses to determine patterns in landscape-scale shifts in species ranges, historic refugia, and signals of ecological adaptation left on functional morphology.',
           imageUrl:
-            'https://www.biologicaldiversity.org/species/reptiles/giant_garter_snake/index.html',
+            'https://drive.google.com/file/d/12u1deloV7g3eiKXwEKLbYBSYxffv8DDy/view?usp=sharing',
           link: 'https://example.com',
         },
         {
