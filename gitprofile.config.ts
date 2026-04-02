@@ -57,12 +57,12 @@ const CONFIG = {
     imageURL: '',
   },
   social: {
-    linkedin: 'tvanlaar',
+    linkedin: 'Benjamin Torres',
     x: '',
     mastodon: '',
     researchGate: '',
     facebook: '',
-    instagram: '',
+    instagram: 'creaturedoctor',
     reddit: '',
     threads: '',
     youtube: '', 
@@ -74,9 +74,9 @@ const CONFIG = {
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
-    website: 'https://tvanlaar.github.io',
+    website: 'https://kingviperthesnake.github.io',
     phone: '',
-    email: 'tvanlaar@csustan.edu',
+    email: 'btorres19@csustan.edu',
   },
   resume: {
     fileUrl:
