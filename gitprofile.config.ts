@@ -78,9 +78,9 @@ const CONFIG = {
     phone: '',
     email: 'btorres19@csustan.edu',
   },
-  resume: {
+  CV: {
     fileUrl:
-      'https://github.com/tvanlaar/gitprofile/raw/main/VanLaarCV.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://github.com/kingviperthesnake/kingviperthesnake.github.io/raw/main/Curriculum_Vitae_for_Researchers%20(4).pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'PHP',
