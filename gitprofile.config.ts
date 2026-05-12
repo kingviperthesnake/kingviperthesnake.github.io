@@ -43,7 +43,7 @@ const CONFIG = {
         {
           title: 'Drivers of Diversification in Rockfishes',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'Examined RH1 gene evolution in rockfishes to reveal depth-driven positive selection, haplotype patterns, and convergent adaptation to low-light environments.',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
           link: 'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
