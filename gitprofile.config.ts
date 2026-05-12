@@ -130,13 +130,13 @@ const CONFIG = {
   ],
   publications: [
     {
-      title: 'Publication Title',
+      title: 'Adaptive convergence and haplotype sharing reveal depth-related evolution of a low-light optimized gene in rockfishes (Sebastes)',
       conferenceName: '',
-      journalName: 'Journal Name',
-      authors: 'John Doe, Jane Smith',
-      link: 'https://example.com',
+      journalName: 'Journal of Evolutionary Biology (In Review)',
+      authors: 'Benjamin T. Torres, S. Liz Alter',
+      link: '',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
+        'Investigates molecular evolution of the RH1 (rhodopsin) gene across 33 rockfish species to understand how depth-related light environments shape adaptation. Our study identifies stronger positive selection and distinct haplotype patterns in deep-water species, alongside widespread haplotype sharing in shallow taxa, providing evidence for convergent evolution and fine-scale genetic tuning for dim-light vision.',
     },
     {
       title: 'Publication Title',
