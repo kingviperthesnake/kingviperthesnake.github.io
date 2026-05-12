@@ -139,13 +139,13 @@ const CONFIG = {
         'Investigates molecular evolution of the RH1 (rhodopsin) gene across 33 rockfish species to understand how depth-related light environments shape adaptation. Our study identifies stronger positive selection and distinct haplotype patterns in deep-water species, alongside widespread haplotype sharing in shallow taxa, providing evidence for convergent evolution and fine-scale genetic tuning for dim-light vision.',
     },
     {
-      title: 'Publication Title',
-      conferenceName: 'Conference Name',
-      journalName: '',
-      authors: 'John Doe, Jane Smith',
-      link: 'https://example.com',
+      title: 'A review of phylogenetic relationships in Lampropeltis: is population structure sufficient for delimiting diverse clades? (Serpentes: Colubridae)',
+      conferenceName: '',
+      journalName: 'Evolutionary Systematics (In Preparation',
+      authors: 'Benjamin T. Torres, Sean McFarlan, Austin Yu, Alok Arun',
+      link: '',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
+        'Reviews phylogenetic relationships in Lampropeltis, arguing that population structure alone is insufficient for species delimitation. Highlights how gene flow, incomplete lineage sorting, and ecological divergence create discordant patterns, making species boundaries difficult to infer. We suggest that robust, model-based approaches incorporating coalescent history and gene flow are necessary to distinguish true evolutionary lineages from geographic variation.',
     },
   ],
   // Display articles from your medium or dev account. (Optional)
