@@ -141,7 +141,7 @@ const CONFIG = {
     {
       title: 'A review of phylogenetic relationships in Lampropeltis: is population structure sufficient for delimiting diverse clades? (Serpentes: Colubridae)',
       conferenceName: '',
-      journalName: 'Evolutionary Systematics (In Preparation',
+      journalName: 'Evolutionary Systematics (In Preparation)',
       authors: 'Benjamin T. Torres, Sean McFarlan, Austin Yu, Alok Arun',
       link: '',
       description:
