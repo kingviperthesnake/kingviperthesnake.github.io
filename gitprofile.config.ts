@@ -37,11 +37,11 @@ const CONFIG = {
           description:
             'M.S. Thesis. Integrating ecological niche modeling and morphometric analyses to determine patterns in landscape-scale shifts in species ranges, historic refugia, and signals of ecological adaptation left on functional morphology.',
           imageUrl:
-            'https://drive.google.com/file/d/12u1deloV7g3eiKXwEKLbYBSYxffv8DDy/view?usp=sharing',
+            '',
           link: 'https://example.com',
         },
         {
-          title: 'Project Name',
+          title: 'Drivers of Diversification in Rockfishes',
           description:
             'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
           imageUrl:
